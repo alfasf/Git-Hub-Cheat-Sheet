@@ -1,7 +1,9 @@
 # Git-Hub-Cheat-Sheet
 
+Copying Remote repo to Local repo first time
 
-
+  Cloning a project:
+    git clone address
 
 Saving, Tracking, Undoing Changes
 
@@ -17,3 +19,7 @@ Saving, Tracking, Undoing Changes
   
   To undo unstaged changes:
     git checkout HEAD filename 
+
+  To show which current commit & differences:
+    git show HEAD
+    
